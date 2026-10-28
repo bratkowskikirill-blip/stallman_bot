@@ -1,2 +1,2 @@
 # stallman_bot
-i hate copyleft
+i hate copyleft, read notice!!!
